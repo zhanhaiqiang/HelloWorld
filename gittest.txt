@@ -12,5 +12,9 @@ fsfsdffsfs
 fdsfsdf
 大的来看看
 发发打算打多
+<<<<<<< HEAD
 dev分支测试
+=======
+bug-02分支bug修复
+>>>>>>> 74fc440f28e4eaec41a096c4fa03774dd76772be
 
