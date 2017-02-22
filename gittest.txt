@@ -2,4 +2,8 @@ git test
 dsadsad
 你大爷
 ffsssdf
+<<<<<<< HEAD
 订单
+=======
+哈哈
+>>>>>>> 7a0ac6376935f6774c14b15dfff0c934f7954fb3
