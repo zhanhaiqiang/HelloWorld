@@ -3,6 +3,7 @@
 
 echo "what's the fuck!";dd
 comt2
+comm3
 ?>
 
 
