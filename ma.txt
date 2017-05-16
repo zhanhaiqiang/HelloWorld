@@ -1,6 +1,5 @@
 
 <?php
-echo "what's the fuck!";dd777
 echo "what's the fuck!:
 ?>
 
