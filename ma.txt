@@ -1,6 +1,6 @@
 
 <?php
-echo "what's the fuck!:
+echo "what's the fuck!:ddddsa
 ?>
 
 
